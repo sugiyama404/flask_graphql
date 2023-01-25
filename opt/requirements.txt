@@ -1,0 +1,5 @@
+numpy==1.16.0
+requests==2.23.0
+Flask==2.2.2
+Flask-Cors==3.0.10
+graphene==3.2.1
